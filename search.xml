@@ -1,62 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>huijia</title>
-    <url>/2024/05/26/huijia/</url>
-    <content><![CDATA[<p><img src="/../img/huijia/319363.jpg" alt="319363.jpg"></p>
+    <title>test</title>
+    <url>/2024/05/26/test/</url>
+    <content><![CDATA[<p><img src="/img/girl/315234.jpg" alt="315234.jpg"></p>
 ]]></content>
       <categories>
+        <category>Java</category>
+        <category>C++</category>
         <category>C#</category>
       </categories>
       <tags>
-        <tag>堪忧</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>核价</title>
-    <url>/2024/05/26/%E6%A0%B8%E4%BB%B7/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>Java,C++,C#</category>
-      </categories>
-      <tags>
-        <tag>科技,回家</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>测试文章</title>
-    <url>/2021/06/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<p>这是一篇测试文章</p>
-<p><img src="/img/girl/315234.jpg" alt="图片引用方法三"><img src="/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/319363.jpg" alt="319363.jpg"><br><img src="/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD//319363.jpg" alt="319363.jpg"></p>
-]]></content>
-      <categories>
-        <category>Java,python,C++</category>
-      </categories>
-      <tags>
-        <tag>原创,科技</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2024/05/26/test/</url>
-    <content><![CDATA[<p><img src="/test/319363.jpg" alt="319363.jpg"></p>
-]]></content>
-      <categories>
-        <category>Java,C++,C#</category>
-      </categories>
-      <tags>
-        <tag>原创,科技,回家</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>绿都</title>
-    <url>/2024/05/26/%E7%BB%BF%E9%83%BD/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>Java,python,C++,C#</category>
-      </categories>
-      <tags>
-        <tag>原创,科技,回家</tag>
+        <tag>原创</tag>
+        <tag>科技</tag>
+        <tag>回家</tag>
       </tags>
   </entry>
 </search>
